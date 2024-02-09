@@ -6,7 +6,15 @@
 - 🌱 I’m currently asp.net / blazor
 
 ## Programming Languages
-<a href="https://www.flaticon.com/free-icons/hashtag" title="hashtag icons">Hashtag icons created by Freepik - Flaticon</a>
+`C# 💪` `Python`
+
+## Technologies used
+
+`ASP.NET core` `.NET` `Blazor`
+
+## What i'll have to learn
+
+`Javascript` `SQL` `C++/C`
 
 <!---
 Eleskend/Eleskend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
