@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eleskend
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unity
-- 📫 How to reach me ...
+- 👀 I’m interested in web
+- 🌱 I’m currently asp.net / blazor
 
 <!---
 Eleskend/Eleskend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
